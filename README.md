@@ -12,6 +12,7 @@
 
 We built Omnivore because we love reading and we want it to be more social. Join us!
 
+- Тут был вова барашев
 - Highlighting, notes, search, and sharing
 - Full keyboard navigation
 - Automatically saves your place in long articles
